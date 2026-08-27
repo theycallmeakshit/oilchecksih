@@ -19,8 +19,8 @@ st.divider()
 col1, col2, col3, col4 = st.columns(4)
 col1.metric(label="Total Safety Logs", value="148", delta="12 new today")
 col2.metric(label="SIF-Potential Precursors", value="31 (20.9%)", delta="High Risk", delta_color="inverse")
-col3.metric(label="Top IOGP Trigger", value="Energy Isolation")
-col4.metric(label="Critical Focus Asset", value="Rig #04 (Moran Field)")
+col3.metric(label="Top IOGP Trigger", value=" oil implanting")
+col4.metric(label="Critical Focus Asset", value="Rig #04 (delhi)")
 
 st.divider()
 
